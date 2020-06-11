@@ -1,0 +1,7 @@
+
+
+:q!
+exit
+pswd
+exit
+cat > file_to_delete2.txt

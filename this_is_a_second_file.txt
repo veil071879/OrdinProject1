@@ -1,0 +1,3 @@
+This is a second file I added to my changes
+
+I just added a second line.

@@ -1,0 +1,5 @@
+This is a third text code I added to my project.
+
+I changed the first line to from file to code.
+I added the word text in the first line.
+I added line 3, 4 and 5.
